@@ -1,0 +1,15 @@
+const toggle = useState(false)
+const loginButton = document.getElementById('btn)
+const getHumans = document.getElementById('humans)
+
+
+function add(self) {
+    cosnt [toggle, setToggle] = useState(false)
+    cosnt [state, setState] = useState(true)
+
+    return (
+        <div>
+            <h1>hello world</h1>
+        </div>
+    )
+}
